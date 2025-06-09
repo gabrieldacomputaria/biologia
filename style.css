@@ -1,12 +1,12 @@
 body{
-color: rgb(0, 0, 0);
-background-color: rgb(255, 255, 255);
+color: rgb(216, 3, 3);
+background-color: rgb(56, 42, 42);
 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 
 }
 footer {
-background-color: black;
-color: white;
+background-color: red;
+color: pink;
 bottom: 0;
 }
 
